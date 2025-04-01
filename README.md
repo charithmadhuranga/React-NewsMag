@@ -4,7 +4,9 @@
 ![Screenshot 2025-04-01 at 05.15.28.png](./screen.png)
 
 ## Development 
-create .env file and put VITE_API_KEY=newapikey
+1. go to here https://newsapi.org/ and create account and get apikey
+2. create .env file and put VITE_API_KEY=newapikey
+3. development
 
-``npm install ``
+``npm install ``\
  ``npm run dev``
